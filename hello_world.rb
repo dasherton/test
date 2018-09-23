@@ -1,3 +1,4 @@
 # Print hello, world! to standard output
 
-puts 'Hello, world!'
+name = 'David'
+puts "Hello, #{name}!"
